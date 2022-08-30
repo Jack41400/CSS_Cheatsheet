@@ -1,2 +1,2 @@
-# MSU-Mini-Project-2
+# CSS Cheatsheet
 CSS Style Cheat-sheet
